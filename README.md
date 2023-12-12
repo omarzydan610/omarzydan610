@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @omarzydan610
-- I am a student at Computer & Systems Engineering at Alexadria University
-- Intersted in compitative progreamming & problem solving 
+- 👋 Hi, I’m @omarzydan
+- I am a student at Computer & Systems Engineering at Alexandria University
