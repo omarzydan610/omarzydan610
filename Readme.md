@@ -6,6 +6,7 @@
 </p>
 
 - 🌱 I’m currently learning **JavaScript, React, and Spring Boot**
+- 🏫 I'm student at **Computer & Systerms Engineering Department, Faculy of Engineering, Alexandria University**
 - ⚡ **I enjoy problem-solving and exploring new technologies**
 
 <h3 align="left">Most Used Languages:</h3>
