@@ -34,7 +34,7 @@
 
 <h3 align="left">My GitHub Stats:</h3>
 <p align="center">
-    <img style="padding: 0 20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarzydan610&show_icons=true&locale=en&layout=compact&title_color=904e95&text_color=333" alt="Top Languages" height="200"/>
-    <img style="padding: 0 20px" src="https://github-readme-stats.vercel.app/api?username=omarzydan610&show_icons=true&locale=en&title_color=904e95&text_color=333&icon_color=904e95" alt="GitHub Stats" height="200"/>
-    <img style="padding: 0 20px" src="https://github-readme-streak-stats.herokuapp.com/?user=omarzydan610&stroke=904e95&ring=904e95&fire=904e95&currStreakNum=333&sideNums=333&currStreakLabel=904e95&sideLabels=904e95&dates=333" alt="GitHub Streak Stats" height="200" />
+    <img style="padding: 0 20px" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarzydan610&show_icons=true&locale=en&layout=compact&title_color=904e95&text_color=333" alt="Top Languages" height="180"/>
+    <img style="padding: 0 20px" src="https://github-readme-stats.vercel.app/api?username=omarzydan610&show_icons=true&locale=en&title_color=904e95&text_color=333&icon_color=904e95" alt="GitHub Stats" height="180"/>
+    <img style="padding: 0 20px" src="https://github-readme-streak-stats.herokuapp.com/?user=omarzydan610&stroke=904e95&ring=904e95&fire=904e95&currStreakNum=333&sideNums=333&currStreakLabel=904e95&sideLabels=904e95&dates=333" alt="GitHub Streak Stats" height="180" />
 </p>
