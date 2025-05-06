@@ -76,9 +76,12 @@
 </p>
 
 <h2 align="left">Languages and Tools</h2>
-
+<div align="left"> 
+    
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,javascript,dart)](https://skillicons.dev)
-</br></br>
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,spring,mysql,flutter)](https://skillicons.dev)
-</br></br>
-[![My Skills](https://skillicons.dev/icons?i=git,github,firebase,postman)](https://skillicons.dev)
+    </br></br>
+    [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,spring,mysql,flutter)](https://skillicons.dev)
+    </br></br>
+    [![My Skills](https://skillicons.dev/icons?i=git,github,firebase,postman)](https://skillicons.dev)
+    
+</div>
