@@ -37,8 +37,8 @@
   <a href="https://github.com/omarzydan610/DoHub">
     <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=omarzydan610&repo=DoHub&theme=dark&hide_border=true" alt="DoHub">
   </a>
-    <a href="https://github.com/omarzydan610/PintOS">
-    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=omarzydan610&repo=PintOS&theme=dark&hide_border=true" alt="Paint">
+  <a href="https://github.com/omarzydan610/PintOS">
+    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=omarzydan610&repo=PintOS&theme=dark&hide_border=true" alt="PintOS">
   </a>
   <a href="https://github.com/omarzydan610/Paint">
     <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=omarzydan610&repo=Paint&theme=dark&hide_border=true" alt="Paint">
