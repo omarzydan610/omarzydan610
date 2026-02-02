@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Zydan</h1>
 <p align="center" style="font-size:30px; font-weight:bold;">
-  <br>
-  Software Engineer at 
-  <img src="https://demo-dashboard.luciq.ai/images/company-logo.svg" 
-       alt="Luciq Logo" 
-       height="25" 
-       style="vertical-align:middle;">
-  <br>
   Student at Faculty of Engineering
   <br>
   Alexandria University
