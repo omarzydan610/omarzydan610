@@ -37,6 +37,9 @@
     max-width: 740px;
     margin: 0 auto;
 ">
+  <a href="https://github.com/omarzydan610/JetStay">
+    <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=omarzydan610&repo=JetStay&theme=dark&hide_border=true" alt="JetStay">
+  </a>
   <a href="https://github.com/omarzydan610/InstaMail">
     <img width="350" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=omarzydan610&repo=InstaMail&theme=dark&hide_border=true" alt="InstaMail">
   </a>
